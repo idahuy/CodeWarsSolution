@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.section {
+    background-color: lightblue;
+}
+
+.headers {
+    color: darkblue;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue
+}
+
+#portfolio {
+    background-color: darkorange;
+}
+
+img {
+    border-radius: 30px
+}
+
+.name {
+    color: teal;
+}
